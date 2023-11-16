@@ -1,5 +1,7 @@
 ### Shalom 👋
 
+![I Stand With Israel](IStandWithIsrael.png)
+
 - 💬 Ask me about ...
 
 *For I know that my Redeemer lives,
